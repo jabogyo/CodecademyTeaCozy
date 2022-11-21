@@ -99,6 +99,7 @@ img {
     align-content: center;
     flex-wrap: wrap;
     gap: 20px;
+    opacity: 1;
 }
 
 .first {
@@ -118,7 +119,6 @@ img {
 
 #location {
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
-    background-position: center;
     background-size: cover;
     max-width: 1200px;
     margin: 0 auto;
